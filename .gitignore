@@ -1,0 +1,11 @@
+.idea/
+venv/
+.pytest_cache
+.env
+.vscode/
+.pycharm/
+/venv/
+/.idea/
+*.log
+*.pyc
+*.swp
